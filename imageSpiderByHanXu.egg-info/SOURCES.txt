@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.py
+imageSpiderByHanXu.egg-info/PKG-INFO
+imageSpiderByHanXu.egg-info/SOURCES.txt
+imageSpiderByHanXu.egg-info/dependency_links.txt
+imageSpiderByHanXu.egg-info/requires.txt
+imageSpiderByHanXu.egg-info/top_level.txt
